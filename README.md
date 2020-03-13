@@ -1,6 +1,9 @@
 # Quest Design for Multiplayer Online Games
 
-__Professor__: Maiga Chang and Rita Kuo
+__Professor__: Maiga Chang and Rita Kuo 
+
+__Student Name__ : Anish Sachdeva
+
 
 ## Project Objectives
 
@@ -18,3 +21,8 @@ actions and add new intent actions in the pre-existing actions.
 
 To create a user-facing Interface that can be used to view pre-existing Intents, edit them and 
 also create new intents (agents/bots).
+
+### Objective - 4
+
+To create different virtual agents that can run against each other and then record telemetry 
+based on their interactions.
